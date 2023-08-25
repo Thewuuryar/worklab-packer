@@ -36,7 +36,7 @@ terraform.rc
 
 # Packer variable files
 *.pkrvars.hcl
-**/packer_cache/*
+*packer_cache*
 
 # Ignore Lock files
 *.lock.*
